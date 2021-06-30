@@ -1,5 +1,9 @@
 # Мой второй учебный проект "Russian Travel"
+<<<<<<< HEAD
 [Ссылка на проект](https://zabolotskiyav.github.io/yet-another-project/index.html)
+=======
+[https://zabolotskiyav.github.io/yet-another-project/index.html]
+>>>>>>> a629f78c2c3770724546078654369d1ee2e73961
 
 ## Описание проекта
 Адаптивный сайт о ...
